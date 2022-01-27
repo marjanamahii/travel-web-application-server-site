@@ -15,5 +15,16 @@
     "express": "^4.17.2",
     "mongodb": "^4.3.1",
     "multer": "^1.4.4"
-  }
+  },
+  "description": "",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marjanamahii/travel-web-application-server-site.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/marjanamahii/travel-web-application-server-site/issues"
+  },
+  "homepage": "https://github.com/marjanamahii/travel-web-application-server-site#readme"
 }
